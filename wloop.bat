@@ -1,1 +1,0 @@
-powershell -command Invoke-WebRequest -OutFile C:\charlie\temp\wloop_install.exe -Uri 
